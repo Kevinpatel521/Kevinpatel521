@@ -6,7 +6,7 @@
 
 ### 
 - Education: Computer and Information Technology senior undergraduate student from Purdue University.
-- Experience: 2 full-time internship experiences as a Data Analyst at Amneal Pharmaceuticals (Summer 2024) and Herba Technologies (Summer 2023).
+- **Experience:** 2 full-time internship experiences as a Data Analyst at Amneal Pharmaceuticals (Summer 2024) and Herba Technologies (Summer 2023).
 - Skills: Proficient in data visualization, machine learning, cloud computing, and various tools including Python, SQL, R, Tableau, and AWS.
 - Achievements:
 -  AWS Certified Cloud Practitioner
