@@ -10,7 +10,7 @@
 - Skills: Proficient in data visualization, machine learning, cloud computing, and various tools including Python, SQL, R, Tableau, and AWS.
 - Achievements:
 -  AWS Certified Cloud Practitioner
-  - Enhanced customer engagement by 33% with interactive dashboards.
+  - Enhanced customer engagement by 30% with interactive dashboards.
 - Professional Approach: Passionate about extracting actionable insights from complex datasets, optimizing business processes, and driving data-driven decision-making.
 - Objective: Seeking new opportunities to leverage my skills in data analytics and engineering to make a significant impact.<br><br>
 
